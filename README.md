@@ -15,3 +15,10 @@ The other line graph I wanted to highlight was one I created based on percentage
 
 
 ![Outcomes Based on Goal](/Resources/Outcomes_vs_Goals.png)
+
+
+**Final Thoughts**
+
+I believe that the data set that was provided can be very useful to support business decisions.  However, I caution you to rely solely on this spreadsheet alone.  What we have yet to do is determine what genre of plays were successful in their fundraising and those that failed.  This could be of much more use to you than when fundraisers were most successful.  Also, this dataset covers almost a decade.  Different societal factors could have influenced whether a play was successful or not.  Do any of these plays conflict with social norms? Are there perceived racial prejudices with any of these plays?  A lot has happened in the world in a decade and is not reflected in this spreadsheet nor has an analysis been done on those factors.  Remember to always include multiple data sources when needing to make decisions that can impact your business.
+
+This is just the beginning.  Continued analysis of the prodvided data could provide more strategic business solutions.  If you should have any questions or insights, please don't hesitate to reach out.
