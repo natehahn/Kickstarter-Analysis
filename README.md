@@ -14,3 +14,4 @@ What this line graph shows are campaigns that started in the early summer did be
 The other line graph I wanted to highlight was one I created based on percentages of succesfful and filed campaigns based on their kickstarter goals(graph below).  There is a very high correlation of failed campaigns as the goal amount increases.  There does seem to be an anomaly between $35-$45,000 dollars where the percentage of successful and failed campaigns flips.  There is a chance this could be related to the time of year, as I already discussed above, or this could be due to the year in which these plays were fund raising.  I will have to work with the data a little more but I wanted to provide you with an update on my findings sooner rather than later.
 
 
+![Outcomes Based on Goal](/Resources/Outcomes_vs_Goals.png)
